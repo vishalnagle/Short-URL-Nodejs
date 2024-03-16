@@ -1,0 +1,4 @@
+In this node js application I made a short url service in which user can create short URLs of 
+the long URLs. In this application user can signup, login, and see the complete list of short URLs.
+Individual users can only see his/her list of short URLs.Basic authentication is implemented in this application.
+JWT authentication and authorization to different roles code also added.
